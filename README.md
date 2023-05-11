@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Checkout API test
 Checkout server based on the Solana blockchain.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4532c50d-2e89-44ac-b992-80fcfedc54d1/deploy-status)](https://app.netlify.com/sites/streampay-checkout-payments/deploys)
 
 ## Getting Started
 
