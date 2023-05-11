@@ -369,11 +369,11 @@ export default function Home() {
                 <div className="border-t border-gray-200 py-6 px-4">
                   <a href="#" className="-m-2 flex items-center p-2">
                     <img
-                      src="https://tailwindui.com/img/flags/flag-canada.svg"
+                      src="https://i.imgur.com/t96yAJs.png"
                       alt=""
                       className="block h-auto w-5 flex-shrink-0"
                     />
-                    <span className="ml-3 block text-base font-medium text-gray-900">CAD</span>
+                    <span className="ml-3 block text-base font-medium text-gray-900">EUR</span>
                     <span className="sr-only">, change currency</span>
                   </a>
                 </div>
@@ -385,7 +385,7 @@ export default function Home() {
 
       <header className="relative bg-white">
         <p className="flex h-10 items-center justify-center bg-indigo-600 px-4 text-sm font-medium text-white sm:px-6 lg:px-8">
-          This is a fake page to test the &nbsp;<a className="underline underline-offset-1 font-semibold" target="_blank" href="https://github.com/easypmnt/checkout-api">Checkout API</a>&nbsp; integration.
+          This is a fake page to test the &nbsp;<a className="underline underline-offset-1 font-semibold" target="_blank" href="https://github.com/stream-innovations/checkout-api-test.git">Checkout API</a>&nbsp; integration.
         </p>
 
         <nav aria-label="Top" className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -406,7 +406,7 @@ export default function Home() {
                   <span className="sr-only">StreamPay</span>
                   <img
                     className="h-8 w-auto"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                    src="https://i.imgur.com/bfDgqCl.png"
                     alt=""
                   />
                 </a>
@@ -530,7 +530,7 @@ export default function Home() {
                       alt=""
                       className="block h-auto w-5 flex-shrink-0"
                     />
-                    <span className="ml-3 block text-sm font-medium">CAD</span>
+                    <span className="ml-3 block text-sm font-medium">EUR</span>
                     <span className="sr-only">, change currency</span>
                   </a>
                 </div>
@@ -995,7 +995,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-gray-100 py-10 text-center">
-            <p className="text-sm text-gray-500">&copy; 2023 StreamPay, Inc. All rights reserved.</p>
+            <p className="text-sm text-gray-500">&copy; @ 2023 Stream Protocol Ltd. All rights reserved.</p>
           </div>
         </div>
       </footer>
