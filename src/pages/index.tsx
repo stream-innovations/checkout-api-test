@@ -144,7 +144,7 @@ const product = {
   amountInUsdc: 100000,
   description:
     "Don't compromise on snack-carrying capacity with this lightweight and spacious bag. The drawstring top keeps all your favorite chips, crisps, fries, biscuits, crackers, and cookies secure.",
-  imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-04-featured-product-shot.jpg',
+  imageSrc: 'https://i.imgur.com/I5pmmcP.jpg',
   imageAlt: 'Light green canvas bag with black straps, handle, front zipper pouch, and drawstring top.',
   breadcrumbs: [
     { id: 1, name: 'Travel', href: '#' },
