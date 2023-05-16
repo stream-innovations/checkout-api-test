@@ -918,7 +918,7 @@ export default function Home() {
               {/* Image section */}
               <div className="col-span-1 md:col-span-2 lg:col-start-1 lg:row-start-1">
                 <img
-                  src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                  src="https://i.imgur.com/I5pmmcP.jpg"
                   alt=""
                   className="h-8 w-auto"
                 />
